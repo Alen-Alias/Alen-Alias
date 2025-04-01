@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alen-Alias
 - 👀 I’m interested in Learning new Things
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web development 
 - 📫 How to reach me-> alenaliasalukkal2004@gmail.com
 - 😄 Pronouns: He
 
