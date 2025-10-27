@@ -2,6 +2,7 @@
 - 👀 I’m interested in Learning new Things
 - 🌱 I’m currently learning Web development 
 - 📫 How to reach me-> alenaliasalukkal2004@gmail.com
+alenx612@gmail.com
 - 😄 Pronouns: He
 
 <!---
